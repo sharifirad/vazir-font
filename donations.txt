@@ -265,7 +265,7 @@
     }, {
         "date": "1395/05/31 10:41",
         "name": "مهدی شریفی راد",
-        "img": "https://s.gravatar.com/avatar/b2bcf6176375b3c739cfc302112e36d8?s=80&d=wavatar",
+        "img": "https://s.gravatar.com/avatar/bdbf33c4a2110e031b1b11f1ab2fe0f3?s=80&d=wavatar",
         "web": "https://nie.ir/",
         "amount": 20000
     }, {
